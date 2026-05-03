@@ -156,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Student ID: e23cseu0797@bennett.edu.in
 - GitHub: [@rxbinsingh](https://github.com/rxbinsingh)
 
-## 🙏 Acknowledgments
+## 🙌🏻 Acknowledgments
 
 - Bennett University for research support
 - DataCo for providing the Smart Supply Chain dataset
