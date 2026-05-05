@@ -1,8 +1,9 @@
 # GHOST: Graph-based Hierarchical On-the-fly Self-correcting Threat Detector
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/paper-ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://doi.org/10.13140/RG.2.2.27961.94567)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-GHOST-FFD21E)](https://huggingface.co/rxbinsingh/GHOST)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 **GHOST** is an innovative zero-shot supply chain disruption prediction framework that operates without requiring historical disruption labels. It uses only standard operational metrics to predict and prevent supply chain failures through autonomous learning and adaptive self-correction.
 
